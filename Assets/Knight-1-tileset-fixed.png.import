@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://4utm7yoyrdsv"
-path="res://.godot/imported/Knight-1-tileset.png-1a34bf2e72a929d9cd9af80d6d1a6a5f.ctex"
+uid="uid://dvdd3w2rkkgv7"
+path="res://.godot/imported/Knight-1-tileset-fixed.png-2c93e227d9d470df5fdf117918a8c408.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Repository-Github-Godot/Assets/Knight-1-tileset.png"
-dest_files=["res://.godot/imported/Knight-1-tileset.png-1a34bf2e72a929d9cd9af80d6d1a6a5f.ctex"]
+source_file="res://Repository-Github-Godot/Assets/Knight-1-tileset-fixed.png"
+dest_files=["res://.godot/imported/Knight-1-tileset-fixed.png-2c93e227d9d470df5fdf117918a8c408.ctex"]
 
 [params]
 
